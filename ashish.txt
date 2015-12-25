@@ -1,0 +1,37 @@
+1)	Manage Application             cover letter
+
+2) 	Add New Broker	error 
+
+
+there must star sign(*) for mondetry feild
+
+1	Del option for files and folder(contain more then 1 file)
+2	not able to change the profile pic.
+3	do not show manage notes while changes the profile or password
+4	there is a box plz remove top center.
+5	able to search all the files from ( Search Here)
+6	type "globle search here" insted of serach here at top 
+7	not able to update profile pic error 
+8	same fromet to change the name for file as it we change the folder name
+9	remove side logo from login page
+10	remove side logo from passord reset page and put same as login page
+11	make new box(go home or back) or link this page to home page while pressing enter
+12	Already have account Login Here is not working 
+13	there must star sign(*) for mondetry feild ( or high light that coloms)
+
+14	Please provide a username. instead of The email field is required.
+
+15	make the logo litle bit bigger as we hane lot of space
+
+16	change of color in "log in " as it happen in sign up
+17	
+18	tab function not working inside the file.
+ 
+20	not able to create sub folder
+21	save button not working for files
+
+share option for shared file but only for public files not private files
+
+
+
+Be with the right business partner Choose DigitalFox.	
